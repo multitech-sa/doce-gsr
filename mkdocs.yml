@@ -1,0 +1,16 @@
+site_name: Docs GSR
+site_autor: Alysson Samuel
+site_url:  https://multitech-sa.github.io/doce-gsr/
+
+repo_url: https://github.com/multitech-sa/doce-gsr
+edit_url: edit/main/docs/
+
+theme:
+  name: material
+  language: pt
+  features:
+    - content.action.edit
+    - content.action.view
+  palette:
+    primary: green
+    accent: green
